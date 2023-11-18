@@ -26,16 +26,16 @@ Data cleaning was perfomed with help of R and some of key challenges:
 
 # Acknowledments
 As per statista.com statistics regarding game genres worldwide, popular game tags can be categorised as:
-	• Shooter
-	• Action
-	• Adventure
-	• Simulation
-	• Racing
-	• Strategy
-	• RPG
-	• Battle Royale
-	• MOBA
-	• Horror (as per twitch users hours preference 2021 and 2023-rapid increase)
+• Shooter
+• Action
+• Adventure
+• Simulation
+• Racing
+• Strategy
+• RPG
+• Battle Royale
+• MOBA
+• Horror (as per twitch users hours preference 2021 and 2023-rapid increase)
 
 https://blog.gamesight.io/twitch-viewership-statistics-for-horror-games-during-the-halloween-season/
 
